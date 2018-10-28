@@ -6,18 +6,18 @@
 
 https://github.com/leedommax/fast-cache
 
-#快速使用
+# 快速使用
 
 简单接入的文档
 
 -使用文档
 -二次开发文档
 
-##交流提问
+## 交流提问
 
 https://github.com/leedommax/fast-cache/issues
 
-##关于作者
+## 关于作者
 
 - 个人主页
 
